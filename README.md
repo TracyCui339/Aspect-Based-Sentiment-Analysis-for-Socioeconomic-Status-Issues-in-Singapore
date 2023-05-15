@@ -1,4 +1,4 @@
-## Critical-Inquiry
+## Aspect-Based Sentiment Analysis for Socioeconomic Status Issues in Singapore
 #### This document contains three folders:
 The "Web Scraping" folder contains all the data scraped from Hardware Zone and Reddit;
 
